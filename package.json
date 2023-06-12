@@ -1,0 +1,16 @@
+{
+  "name": "fivem-allowlist-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vuk Uskokovic",
+  "license": "ISC",
+  "dependencies": {
+    "@citizenfx/server": "^2.0.6502-1",
+    "discord.js": "^14.11.0"
+  }
+}

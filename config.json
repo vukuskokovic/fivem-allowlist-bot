@@ -1,0 +1,8 @@
+{
+    "token": "OTE3MzUzMjUxMjYxNzc1OTAy.GPXZiJ.nqEzS0cCQ-kS_sXHjNFtywstsuJ9BYhc_w6RyY",
+    "guild": "868283406449016832",
+    "allowlistRole": "1004747504174256208",
+    "noRoleMessage": "You are not allowlisted.",
+    "notInDiscordMessage": "You are not in our discord",
+    "errorMessage": "Error while checking allowlist try again."
+}
