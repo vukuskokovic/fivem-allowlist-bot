@@ -61,8 +61,6 @@ on('playerConnecting', (_, _1, deferrals) => {
                 return;
             }
         }
-
-        console.log(player)
         deferrals.done();
     }, 0);
 })
